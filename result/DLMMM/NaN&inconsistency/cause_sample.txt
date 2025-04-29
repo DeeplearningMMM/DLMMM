@@ -1,0 +1,9 @@
+mindspore nn.batchnorm
+net1=torch.nn.Batchnorm2d()
+net2=ms.nn.Batchnorm2d()
+x=Tensor(randn([1,3,256,256]))
+y1=net1(x)
+y2=net2(x)
+y1!=y2
+
+different padding mode also matters.

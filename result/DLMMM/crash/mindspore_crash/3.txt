@@ -1,0 +1,2 @@
+in nn.Conv2d:
+RuntimeError: mindspore/ccsrc/plugin/device/cpu/kernel/conv_cpu_kernel.cc:102 LaunchKernel] For 'Conv', output buffer memset failed.

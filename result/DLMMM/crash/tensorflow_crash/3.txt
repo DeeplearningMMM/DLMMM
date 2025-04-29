@@ -1,0 +1,2 @@
+in tf.nn.conv2D()(for dilated convolution)
+InvalidArgumentError (see above for traceback): Current implementation does not yet support dilations in the batch and depth dimensions.

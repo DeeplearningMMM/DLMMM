@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2afbb51e-74b1-42c5-b260-c39156103650" name="ICSE">
+        <fileTransfer accessType="SFTP" host="210.28.133.13" port="21854" sshConfigId="ad971c08-0743-4eb5-9127-5cfcaccc3f83" sshConfig="root@210.28.133.13:21854 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

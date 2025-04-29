@@ -1,0 +1,2 @@
+in nn.MaxPool2D:
+RuntimeError: mindspore/ccsrc/plugin/device/cpu/kernel/pad_cpu_kernel.cc:102 LaunchKernel] For 'Pad', output buffer memset failed.
